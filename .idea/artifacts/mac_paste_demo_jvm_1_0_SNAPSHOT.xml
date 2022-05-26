@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mac_paste_demo-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="mac_paste_demo-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="mac_paste_demo.jvmMain" />
+    </root>
+  </artifact>
+</component>
